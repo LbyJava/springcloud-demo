@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../自学Java包/黑马Java视频/SpringMVC/资料/springmvc/day01/res/jar包/spring-framework-3.2.0.RELEASE-dist.zip!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-webmvc-3.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.2.4.RELEASE-sources.jar!/" />
+    </SOURCES>
+    <excluded>
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-webmvc-3.2.0.RELEASE-sources.jar!/" />
+    </excluded>
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib" recursive="false" />
+  </library>
+</component>
